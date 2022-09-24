@@ -1,0 +1,41 @@
+body {
+    background-color: lightblue;
+    text-align: center;
+    font-size: xx-large;
+}
+.header{
+    font-family: "Courier New", monospace;
+    font-size: 40px;
+}
+.answer{
+    border-style: dotted; 
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-family: "Courier New", monospace;
+    width: 20%;
+    margin-left: 40%;
+    background-color: rgb(38, 187, 236);
+    border-radius: 25px;
+    font-size: 14;
+}
+.answers{
+    font-family: "Courier New", monospace;
+}
+.question{
+    width: 50%;
+    margin-left: 25%;
+    margin-top: 20px;
+    
+    text-align: center;
+    font-family: "Courier New", monospace;
+    
+}
+.score{
+    width: 40%;
+    margin-top: 100px;
+    margin-left: 30%;
+   
+    text-align: center;
+    font-family: "Courier New", monospace;
+    font-size: 80px;
+}
