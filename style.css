@@ -1,7 +1,12 @@
 body {
-    background-color: lightblue;
+    /* background-color: lightblue; */
+    background: linear-gradient( lightblue, rgb(38, 187, 236));
     text-align: center;
     font-size: xx-large;
+    
+}
+html{
+    height: 100%;
 }
 .header{
     font-family: "Courier New", monospace;

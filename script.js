@@ -18,7 +18,7 @@ function generatequestion(score){
                 answerDiv.addEventListener('click', () => {
                 document.body.style.background = "green"
                 setTimeout(() => {
-                    document.body.style.background = "lightblue"
+                    document.body.style.background = "linear-gradient( lightblue, rgb(38, 187, 236))";
                     
                     document.querySelector('.answers').innerHTML = ""
                     generatequestion(score)
